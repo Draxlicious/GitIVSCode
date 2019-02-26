@@ -11,6 +11,13 @@ Jeg syntes vi som klasse havde brugt for lidt tid til at gennemgå arbejdsopgave
 Mere tid på denne opgave ville havde gavnet alle parter.
 
 
+**risico ved denne planlægning**
+
+Man får lagt alle timer op og set hvor meget tid man faktisk har og opdeler det til enhver mand.
+Men det kan være at nogle opgaver bliver lavet hurtigere end ventet i forhold til den tid der er angivet og omvendt der kan være for lidt tid på nogle opgaver som faktisk skulle have brugt længere tid.
+Dette tager vi udgangspunkt til at blive en skabalon til næste gang og kan kun blive bedre.
+Det gode er at alle ansatte er beskæftiget med arbejde og ved hvad de skal gå igang med.
+
 
 
 
