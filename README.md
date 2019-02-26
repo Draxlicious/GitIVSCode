@@ -8,7 +8,6 @@ En arbejds periode på 9 uger
 plus 10 timers arbejde per person = 1372
 
 
-
 **egon** må arbejde 25 timer om ugen og har ferie i uge 42. 8 * 25 = 200
 plus 10 timers overarbejde oven i = **210**
 
@@ -23,3 +22,15 @@ plus 10 timers overarbejde = **121** timer
 plus 10 timer overarbejde = **121** timer
 
 **I alt 721** timer total arbejde for 4 personer
+
+_______
+Egon (Kode og design)   **210 timer**
+
+Kjeld (Design og useability) **269 timer**
+
+Benny (Kode) kun starten af projektet og brugertest **121 timer**
+
+Lukas **121 timer**
+____
+
+
