@@ -33,4 +33,3 @@ Benny (Kode) kun starten af projektet og brugertest **121 timer**
 Lukas **121 timer**
 ____
 
-
